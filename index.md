@@ -68,7 +68,7 @@ This is a rendering of The 36 Lessons of Vivec that introduces a verse numbering
 
 | <span style="font-family:Daedric">A<span style="color:red">V</span>S</span> |
 |:---------------------------------------------------------------------------:|
-| <img src="assets/images/frescos/fresco_anticipation_of_vivec.svg?raw=true" alt="Anticipation of Vivec" width="50%"> |
+| <img src="assets/images/frescos/fresco_anticipation_of_vivec.svg?raw=true" alt="Anticipation of Vivec" width="75%"> |
 |                       *The Anticipation of Vivec*, fresco by [TheMyzel][13] |
 
 [13]: https://www.deviantart.com/themyzel/art/The-Anticipation-of-Vivec-142084895
