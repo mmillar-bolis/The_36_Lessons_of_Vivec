@@ -34,7 +34,7 @@
 
 <center>
 <h1><span style="font-family:Daedric">Deif Shoreshiik</span></h1>
-<img src="../assets/images/symbols/trigon_ghartok-512.png?raw=true" alt="Trigon">
+<img src="../assets/images/symbols/trigon_ghartok.svg?raw=true" alt="Trigon" width="75%">
 <h1><span style="font-family:Georgia">THE 36 LESSONS</span></h1>
 <h3><span style="font-family:Georgia">OF VIVEC</span></h3>
 <h4><span style="font-family:Georgia">FAITHFULLY TRANSLATED</span></h4>
@@ -57,7 +57,7 @@
 >
 > It is with most humble gratitude and honor to present this work, a collection of the sacred writs, lessons recorded firstmost by our people, who are set apart in this world. Within these pages do we pass down the words of our Lord Vivec, who ransoms for our souls with perfect zeal through chaotic love, first anticipated for us by the ancestor Mephala.
 >
-> The received text, found commonly among the priests of Vehk at the time of assembly, serves as the basis of this edition. Spelling and transcription errors have been amended by hand and diligently checked against the the common sources, to ensure their authenticity and correct meaning. Furthermore, within the text has been placed a different kind of notation, such that it can be easily discerned from the common letters, so that the reader through the division of verse, might be more equipped to perceive the meaning of our Lords and commit their words to memory.
+> The received text, found commonly among the priests of Vehk at the time of assembly, serves as the basis of this edition. Spelling and transcription errors have been amended by hand and diligently checked against the common sources, to ensure their authenticity and correct meaning. Furthermore, within the text has been placed a different kind of notation, such that it can be easily discerned from the common letters, so that the reader through the division of verse, might be more equipped to perceive the meaning of our Lords and commit their words to memory.
 >
 > May this edition of the scriptures further serve as a Treasure Wood Sword, waived as a lessoning tune that guides us in song, to the edification of all the temple faithful and indeed our Dunmer people.
 >
