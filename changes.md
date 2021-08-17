@@ -21,14 +21,7 @@
 
 ## Changes
 
-After rebasing this project directly on the dumps of the game's text, these were the edits I then made, and are present in each of the versions I reassembled. In total, only 16 words have been changed. Four of those are the same misspelled word (*AMLSIVI*, likely the result of a copy error) and three of them are compactions (majordomo) and one was a missing letter (PSJJJJ). Only 1 noun change was made (Necrom is the *actual* City of the Dead) and 1 word was removed (a leftover *to*). There were only 11 punctuation changes, and all within Sermon Eleven alone, curiously enough.
-
----
-
-| __Vehk 1:22__ | *passage* |
-|--------------:|:----------|
-|    *original* | It is said the number is the number of birds that can nest in an ancient `tibrol` tree, less three grams of honest work, |
-|      *change* | It is said the number is the number of birds that can nest in an ancient `Tibrol` tree, less three grams of honest work, |
+After rebasing this project directly on the dumps of the game's text, these were the edits I then made, and are present in each of the versions I reassembled. In total, only 15 words have been changed. Four of those are the same misspelled word (*AMLSIVI*, likely the result of a copy error) and three of them are compactions (majordomo) and one was a missing letter (PSJJJJ). Only 1 noun change was made (Necrom is the *actual* City of the Dead) and 1 word was removed (a leftover *to*). There were only 11 punctuation changes, and all within Sermon Eleven alone, curiously enough.
 
 ---
 

@@ -33,7 +33,7 @@
 &emsp;
 
 <center>
-<h1><span style="font-family:Daedric">Deif Shoreshiik</span></h1>
+<h1><span style="font-family:Daedric">3'6 Shoreshiik</span></h1>
 <img src="../assets/images/symbols/trigon_ghartok.svg?raw=true" alt="Trigon" width="75%">
 <h1><span style="font-family:Georgia">THE 36 LESSONS</span></h1>
 <h3><span style="font-family:Georgia">OF VIVEC</span></h3>
@@ -185,7 +185,7 @@ To which the netchiman's wife said the Hortator.
 
 <span style="display:inline-block;padding-left:4em"><b>&sup2;&sup1;</b>'Look, little Vehk, and find the face behind the splendor of my bladed carriage, for in it is delivered the unmixed conflict path, perfect in every way. What is its number?'</span>
 
-<b>&sup2;&sup2;</b>It is said the number is the number of birds that can nest in an ancient Tibrol tree, less three grams of honest work,
+<b>&sup2;&sup2;</b>It is said the number is the number of birds that can nest in an ancient tibrol tree, less three grams of honest work,
 <b>&sup2;&sup3;</b>but Vivec in his later years found a better one and so gave this secret to his people.
 
 <span style="display:inline-block;padding-left:4em"><b>&sup2;&#8308;</b>'For I have crushed a world with my left hand,' he will say, 'but in my right hand is how it could have won against me. Love is under my will only.'</span>
