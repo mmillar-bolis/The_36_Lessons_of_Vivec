@@ -35,11 +35,11 @@
 #### <span style="color:red">Sermon Seven</span>
 
 <img align="left" width="100" src="../../../assets/fonts/png/red/glyph_a.png">s the caravan of Nerevar now made for the capital of Veloth, anon Almalexia, there came great rumblings from the oblivion.
-<b>&sup2;</b>A duke among scamps wandered into the House of Troubles, pausing before each scripture door to pay his respects, until finally he was met by the major domo of Mehrunes Dagon.
+<b>&sup2;</b>A duke among scamps wandered into the House of Troubles, pausing before each scripture door to pay his respects, until finally he was met by the majordomo of Mehrunes Dagon.
 
 <b>&sup3;</b>The Duke of Scamps said, 'I was summoned by Lord Dagon, master of the foul waters and fire, and I have brought the pennants of my seven legions.'
 
-<b>&#8308;</b>The major domo, whose head was a bubble of foul water and fire, bowed low, so that the head of the Duke of Scamps became enclosed in his own.
+<b>&#8308;</b>The majordomo, whose head was a bubble of foul water and fire, bowed low, so that the head of the Duke of Scamps became enclosed in his own.
 
 <b>&#8309;</b>He saw the first pennant, which commanded a legion of grim warriors who could die at least twice.
 
@@ -55,7 +55,7 @@
 
 <b>&sup1;&sup1;</b>He saw the seventh pennant, which commanded a legion of armored winning moves.
 
-<b>&sup1;&sup2;</b>To which the major domo said, 'Duke Kh-Utta, your legions while mighty are not enough to destroy Nerevar or the Triune way.
+<b>&sup1;&sup2;</b>To which the majordomo said, 'Duke Kh-Utta, your legions while mighty are not enough to destroy Nerevar or the Triune way.
 <b>&sup1;&sup3;</b>Look upon the Hortator and see the wisdom he takes to wife.'
 
 <b>&sup1;&#8308;</b>And they looked into the middle world and saw:

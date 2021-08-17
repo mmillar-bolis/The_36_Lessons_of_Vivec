@@ -24,13 +24,13 @@
 #### <span style="color:red">Sermon Seven</span>
 
 1. As the caravan of Nerevar now made for the capital of Veloth, anon Almalexia, there came great rumblings from the oblivion.
-2. A duke among scamps wandered into the House of Troubles, pausing before each scripture door to pay his respects, until finally he was met by the major domo of Mehrunes Dagon.
+2. A duke among scamps wandered into the House of Troubles, pausing before each scripture door to pay his respects, until finally he was met by the majordomo of Mehrunes Dagon.
 
 3. The Duke of Scamps said,\
 \
 &emsp;&emsp;'I was summoned by Lord Dagon, master of the foul waters and fire, and I have brought the pennants of my seven legions.'
 
-4. The major domo, whose head was a bubble of foul water and fire, bowed low, so that the head of the Duke of Scamps became enclosed in his own.
+4. The majordomo, whose head was a bubble of foul water and fire, bowed low, so that the head of the Duke of Scamps became enclosed in his own.
 
 5. He saw the first pennant, which commanded a legion of grim warriors who could die at least twice.
 
@@ -46,7 +46,7 @@
 
 11. He saw the seventh pennant, which commanded a legion of armored winning moves.
 
-12. To which the major domo said,\
+12. To which the majordomo said,\
 \
 &emsp;&emsp;'Duke Kh-Utta, your legions while mighty are not enough to destroy Nerevar or the Triune way.
 13. &emsp;&emsp;Look upon the Hortator and see the wisdom he takes to wife.'
